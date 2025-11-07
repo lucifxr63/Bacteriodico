@@ -1,0 +1,8 @@
+# Robotstxt generado dinámicamente por Next.js
+# Ver src/app/robots.ts para la configuración
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://bacteriodico.cl/sitemap.xml
